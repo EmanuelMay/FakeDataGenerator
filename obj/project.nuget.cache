@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "93O595jqoso=",
+  "success": true,
+  "projectFilePath": "/home/lindomar/Documentos/Projetos/GeneratorFakeData/GeneratorFakeData.csproj",
+  "expectedPackageFiles": [
+    "/home/lindomar/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
