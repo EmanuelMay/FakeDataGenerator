@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lindomar/Documentos/Projetos/GeneratorFakeData/GeneratorFakeData.csproj": {}
+    "/home/lindomar/Documentos/Projetos/FakeDataGenerator/GeneratorFakeData.csproj": {}
   },
   "projects": {
-    "/home/lindomar/Documentos/Projetos/GeneratorFakeData/GeneratorFakeData.csproj": {
+    "/home/lindomar/Documentos/Projetos/FakeDataGenerator/GeneratorFakeData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lindomar/Documentos/Projetos/GeneratorFakeData/GeneratorFakeData.csproj",
+        "projectUniqueName": "/home/lindomar/Documentos/Projetos/FakeDataGenerator/GeneratorFakeData.csproj",
         "projectName": "GeneratorFakeData",
-        "projectPath": "/home/lindomar/Documentos/Projetos/GeneratorFakeData/GeneratorFakeData.csproj",
+        "projectPath": "/home/lindomar/Documentos/Projetos/FakeDataGenerator/GeneratorFakeData.csproj",
         "packagesPath": "/home/lindomar/.nuget/packages/",
-        "outputPath": "/home/lindomar/Documentos/Projetos/GeneratorFakeData/obj/",
+        "outputPath": "/home/lindomar/Documentos/Projetos/FakeDataGenerator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lindomar/.nuget/NuGet/NuGet.Config"

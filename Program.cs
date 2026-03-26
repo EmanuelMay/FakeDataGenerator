@@ -14,7 +14,7 @@ class Program
 {
     static void Main()
     {
-        var (generateIdentity, consoleIO) = Initialize("Data/Users");
+        var (generateIdentity, consoleIO) = Initialize("Users");
 
         Console.Clear();
 
