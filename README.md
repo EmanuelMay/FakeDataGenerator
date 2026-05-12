@@ -1,10 +1,10 @@
 # Gerador de Dados Falsos - Fake Data Generator
 
-## 📋 Descrição
+## Descrição
 
 O **Fake Data Generator** é uma aplicação console em C# (.NET 10.0) desenvolvida para gerar dados fictícios de identidade brasileira de forma rápida e confiável. É ideal para fins de desenvolvimento, testes automatizados, prototipagem de sistemas e ambientes de homologação onde dados reais não podem ser utilizados.
 
-## ✨ Características Principais
+## Características Principais
 
 - **Geração de Identidades Completas**: Cria perfis fictícios com dados brasileiros autênticos e validados
 - **Validação de Documentos**: Gera CPF e RG válidos de acordo com as regras de validação brasileiras
@@ -13,7 +13,7 @@ O **Fake Data Generator** é uma aplicação console em C# (.NET 10.0) desenvolv
 - **Interface Console Intuitiva**: Menu interativo e fácil de usar
 - **Arquitetura Limpa**: Implementa padrões de design profissionais (Clean Architecture, SOLID)
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 ### Geração de Dados
 
@@ -23,7 +23,7 @@ O **Fake Data Generator** é uma aplicação console em C# (.NET 10.0) desenvolv
 - **RG**: Números de RG autênticos
 - **Nome da Mãe**: Sobrenomes femininos para completar o perfil
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 A aplicação segue o padrão **Clean Architecture** com separação clara de responsabilidades:
 
@@ -42,19 +42,19 @@ src/
 - **Interface Segregation**: Interfaces específicas para cada gerador
 - **Single Responsibility**: Cada classe com única responsabilidade
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Linguagem**: C#
 - **Framework**: .NET 10.0 e .NET 8.0 (multi-target)
 - **Paradigma**: Orientado a Objetos com princípios SOLID
 - **Padrão Arquitetural**: Clean Architecture
 
-## 📦 Pré-requisitos
+## Pré-requisitos
 
 - .NET 10.0 SDK instalado
 - Sistema Operacional: Windows, Linux ou macOS
 
-## 🚀 Como Usar
+## Como Usar
 
 ### 1. Compilar o Projeto
 
@@ -82,7 +82,7 @@ Option: _
 
 Selecione a opção **1** para gerar dados fictícios e escolha a quantidade desejada.
 
-## 💾 Saída de Dados
+## Saída de Dados
 
 Os dados gerados são armazenados em um arquivo de texto na pasta `Users/` com o seguinte formato:
 
@@ -96,7 +96,7 @@ Mãe: Maria dos Santos
 ---
 ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -133,7 +133,7 @@ src/
         └── Options/                   # Opções do menu
 ```
 
-## 🔧 Componentes Principais
+## Componentes Principais
 
 | Componente | Responsabilidade |
 |---|---|
@@ -144,27 +144,18 @@ src/
 | `DateTimeGenerator` | Produz datas de nascimento válidas |
 | `UserRepository` | Persiste dados em arquivo local |
 
-## 📈 Casos de Uso
-
-- ✅ Testes automatizados de sistemas
-- ✅ Desenvolvimento de aplicações
-- ✅ Prototipagem de funcionalidades
-- ✅ Ambiente de homologação
-- ✅ Demonstrações de produto
-- ✅ Treinamentos e workshops
-
-## ⚠️ Informações Importantes
+## Informações Importantes
 
 - Os dados gerados são **completamente fictícios** e não representam pessoas reais
 - A aplicação respeita as regras de validação de documentos brasileiros
 - Adequada apenas para fins de desenvolvimento e teste
 - Não deve ser utilizada para fins fraudulentos ou ilegais
 
-## 📝 Licença
+## Licença
 
 Este projeto é fornecido como está. Utilize livremente para fins educacionais e de desenvolvimento.
 
-## 👨‍💻 Desenvolvedor
+## Desenvolvedor
 
 Desenvolvido como exemplo de aplicação em C# seguindo boas práticas de arquitetura de software.
 
